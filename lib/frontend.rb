@@ -1,5 +1,6 @@
 require "frontend/version"
 
 module Frontend
-  # Your code goes here...
+  class Engine < Rails::Engine
+  end
 end
