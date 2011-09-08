@@ -34,7 +34,7 @@ Limited install options:
 		rails g frontend:backbone:relational
 		rails g frontend:backbone:localstorage
 
-# Contributing
+## Contributing
 - Fork it
 - Commit
 - Test
