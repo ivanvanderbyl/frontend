@@ -15,7 +15,7 @@ A Rails 3.1 engine which provides Javascript Libraries and Stylesheets for rapid
 - Twitter Bootstrap (in SCSS)
 - Compass
 
-## Generators
+## Generators (Coming Soon)
 We also include generators for Backbone Models, Views, Routers and a Backbone style scaffold, as well as installation generators.
 
 # Installation
